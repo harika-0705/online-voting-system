@@ -1,4 +1,4 @@
-ackage myproject;
+package myproject;
 
 import javax.swing.*;
 
